@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-29T00:11:49.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="HMqhs9gLeMhiVI3OAOOz" version="12.6.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-29T00:19:47.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="UENYzHoat07UchLYs_tG" version="12.6.1" type="github">
   <diagram id="VwEdA_TIcP5LEYri80CW" name="Page-1">
-    <mxGraphModel dx="2858" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -121,7 +121,7 @@
         <mxCell id="tCYu1UxVWt7A2sTlivnu-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/space-exploration-set/128/iStar_Design_Space_LineIcons_Live-20-128.png" vertex="1" parent="tCYu1UxVWt7A2sTlivnu-53">
           <mxGeometry x="1099" y="12" width="128" height="128" as="geometry"/>
         </mxCell>
-        <mxCell id="tCYu1UxVWt7A2sTlivnu-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=10.36;dx=25.29;arrowHead=39.08;rotation=102;" vertex="1" parent="tCYu1UxVWt7A2sTlivnu-53">
+        <mxCell id="tCYu1UxVWt7A2sTlivnu-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=10.36;dx=25.29;arrowHead=39.08;rotation=102;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tCYu1UxVWt7A2sTlivnu-53">
           <mxGeometry x="152.19999999999993" y="140" width="116.8" height="111.6" as="geometry"/>
         </mxCell>
         <mxCell id="tCYu1UxVWt7A2sTlivnu-1" value="PCB" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="tCYu1UxVWt7A2sTlivnu-53">
@@ -144,10 +144,10 @@
         <mxCell id="tCYu1UxVWt7A2sTlivnu-6" value="Sensors" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;container=1;recursiveResize=0;treeFolding=1;treeMoving=1;" vertex="1" parent="tCYu1UxVWt7A2sTlivnu-1">
           <mxGeometry x="113.89142857142858" y="70.00000000000001" width="71.18214285714286" height="30.000000000000007" as="geometry"/>
         </mxCell>
-        <mxCell id="tCYu1UxVWt7A2sTlivnu-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.53;dx=20.17;arrowHead=35.94;rotation=-195;" vertex="1" parent="tCYu1UxVWt7A2sTlivnu-53">
+        <mxCell id="tCYu1UxVWt7A2sTlivnu-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.53;dx=20.17;arrowHead=35.94;rotation=-195;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tCYu1UxVWt7A2sTlivnu-53">
           <mxGeometry x="460.16999999999996" y="216.99" width="145.51" height="176.44" as="geometry"/>
         </mxCell>
-        <mxCell id="tCYu1UxVWt7A2sTlivnu-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.53;dx=20.17;arrowHead=35.94;rotation=-165;flipH=1;" vertex="1" parent="tCYu1UxVWt7A2sTlivnu-53">
+        <mxCell id="tCYu1UxVWt7A2sTlivnu-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.53;dx=20.17;arrowHead=35.94;rotation=-165;flipH=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tCYu1UxVWt7A2sTlivnu-53">
           <mxGeometry x="628.56" y="212.36" width="135.51" height="150.22" as="geometry"/>
         </mxCell>
         <mxCell id="tCYu1UxVWt7A2sTlivnu-43" value="" style="group" vertex="1" connectable="0" parent="tCYu1UxVWt7A2sTlivnu-53">
